@@ -63,15 +63,3 @@ TrustAI is an innovative platform focused on bringing transparency, fairness, an
 - Audit logging for transparency and compliance  
 - Responsive banking-grade UI leveraging Bootstrap 5  
 
----
-
-## Getting Started
-
-### Prerequisites
-- Python 3.11+  
-- Node.js (optional, for frontend tooling)  
-- SQLite (for development) or PostgreSQL (for production)  
-
-### Installation
-
-1. Clone the repo:  
